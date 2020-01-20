@@ -4,6 +4,6 @@ This is my first Python project. :) <br>
 
 Markdown Cheat Sheet:
 
-*Bold Text*
+**Bold Text**
 <br>
 _Italics Text_
